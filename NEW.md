@@ -1,0 +1,1 @@
+echo 'HAHAHA!' > NEW.md
