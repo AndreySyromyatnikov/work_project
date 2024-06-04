@@ -1,0 +1,1 @@
+echo 'TUT NE NA CHTO SMOTRET!' > README.md
