@@ -1,0 +1,1 @@
+echo 'Pult ot yaderki' > BAMBIM.md
